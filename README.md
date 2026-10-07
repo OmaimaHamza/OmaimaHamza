@@ -10,7 +10,7 @@ Currently, I'm putting most of my effort into **Generative AI and Computer Visio
 
 ---
 
-## 🔎 What I'm Exploring
+## What I'm Exploring
 
 * **Generative AI & LLMs**
 * **Computer Vision**
@@ -22,7 +22,7 @@ Currently, I'm putting most of my effort into **Generative AI and Computer Visio
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -69,66 +69,7 @@ Currently, I'm putting most of my effort into **Generative AI and Computer Visio
 
 ---
 
-## ⭐ Featured Projects
-
-### 🤖 ALMA — Baby Monitoring System
-
-An IoT-based baby monitoring prototype combining environmental sensing, motion detection, camera capabilities, and a connected application.
-
-**Technologies:** ESP32 · ESP32-CAM · Python · Flask · Firebase · Machine Learning
-
-[View Project →](YOUR_ALMA_REPOSITORY_LINK)
-
----
-
-### 🦾 4WD Autonomous Robot — Field Tracking
-
-An autonomous 4WD robot exploring real-time field tracking and geometric drawing for sports fields such as football and tennis.
-
-**Technologies:** Arduino · C/C++ · MPU6050 · L298N · Embedded Systems
-
-[View Project →](YOUR_ROBOT_REPOSITORY_LINK)
-
----
-
-### 🧠 Machine Learning Projects
-
-A collection of projects and experiments exploring data preprocessing, supervised learning, model evaluation, and different machine learning approaches.
-
-**Technologies:** Python · NumPy · Pandas · Scikit-learn · Matplotlib
-
-[Explore ML Projects →](YOUR_ML_REPOSITORY_LINK)
-
----
-
-## 📚 Currently Learning
-
-### Artificial Intelligence
-
-* Generative AI & LLMs
-* Computer Vision
-* Machine Learning
-* Deep Learning
-* AI Applications
-
-### Software Development
-
-* REST APIs
-* Spring Boot
-* Angular
-* Docker
-* Software Testing
-
-### Automation & Data
-
-* n8n
-* Web Scraping
-* Data Processing
-* Workflow Automation
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=OmaimaHamza\&show_icons=true\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true)
 
@@ -136,12 +77,9 @@ A collection of projects and experiments exploring data preprocessing, supervise
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/oumaima-hamza-09a3bb317)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oh.oumaima.hamza@gmail.com)   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/OmaimaHamza)
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=OmaimaHamza\&style=flat-square\&color=grey)
